@@ -1,0 +1,58 @@
+# Build settings
+permalink: /posts/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: "/page/:num/"
+
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: Mário Sérgio
+description: "Presentation page of Mário Sérgio"
+keywords: "community, python, empowerment, diversity, development, civi tech, web"
+url: http://mariosergio.me
+baseurl: ""
+
+google_analytics: UA-179236608-1
+repo: http://github.com/sergiomario/mariosergio.me
+disqus_shortname: "sergiomario"
+disqus_site_shortname: "sergiomario"
+
+# Author settings
+author:
+  name: Mário Sérgio
+  job: Program Manager and Developer
+  bio: "I am a people empowerment enthusiast."
+  thumb: /images/profile.jpg
+  email: mariopekenossalro@gmail.com
+  url: https://mariosergio.me/
+  github: https://github.com/sergiomario
+  twitter: https://twitter.com/sergiomarioq
+  facebook: https://facebook.com/mariosergio.oliveira.75
+  linkedin: https://linkedin.com/in/sergiomarioq
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: posts
+    title: Posts
+  - slug: talks
+    title: Talks
+  - slug: podcasts
+    title: Podcasts
+  - slug: projects
+    title: Projects
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]

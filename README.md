@@ -7,4 +7,4 @@ Personal website
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `bundle exec jekyll serve`
 
-You can find the source code for Jekyll at github.com/jekyll/jekyll
+You can find the source code for Jekyll at https://github.com/nandomoreirame/end2end

@@ -5,10 +5,10 @@ description: "O processo de mudança pode ser compreendido como uma alteração 
 date: 2015-04-13 00:00:00
 comments: true
 keywords: "changes, wonderful, life"
-category: life
+category: post
 image: ../images/bird.jpg
 tags:
-- life
+- changes
 ---
 
 O processo de mudança pode ser compreendido como uma alteração de estado, por razões inesperadas ou planejadas, sendo que, os envolvidos precisam estar sensibilizadas pelas variáveis que impulsionam o processo de mudança.

@@ -5,9 +5,11 @@ pagination:
 ---
 
 <section class="post-list">
-  {% for post in paginator.posts %}
-    {% include article.html %}
+  {% for post in paginator.posts reversed %}
+      {% if post.category == 'talk' %}
+        {% include article.html %}
+      {% endif %}
   {% endfor %}
 
-  {% include pagination.html %}
+  <!-- {% include pagination.html %} -->
 </section>

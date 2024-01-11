@@ -51,7 +51,7 @@ Aqui você perceberá o impacto que é gerado ao quebrar barreiras de entrada em
 <h3>Raquel e Cristiane Aline</h3>
 Eu estava em um corre-corre brutal no primeiro dia do evento principal, no centro de convenções. Eu tinha virado a noite e havia muitas pendências com fornecedores do centro de convenções nesse dia, como alvarás de bombeiros e prefeitura, emissão de notas fiscais e coisas do gênero.
 
-![](../images/raquel_cris.webp)
+![](images/raquel_cris.webp)
 
 Então, coloquei algumas pessoas para conduzir o evento, e fui resolver as “tretas”. Nesse tumulto todo, me vem o Jairo (JJ) com duas moças extremamente bem vestidas e estilosas para que eu conversasse com elas. Me lembro que no primeiro momento não pude atender, depois voltei para examinar o que era.
 

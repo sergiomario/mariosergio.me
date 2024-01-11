@@ -41,7 +41,7 @@ Associação Python Brasil (APyB): A Python Brasil é um evento também de respo
 
 Recebemos apoio institucional, fiscal e emocional dos membros da associação. Com eles presentes, resolvemos os conflitos mais complexos e delicados, que envolviam gerir a comunicação e execução do evento. As ajudas foram desde membros da diretoria usarem recursos próprios para pagar compromissos assumidos por mim frente ao evento até ligações privadas para simplesmente mostrarem que eu não estava ali sozinho. ❤
 
-YOUTUBE
+[![Abertura da Python Brasil 12](https://img.youtube.com/vi/6P4v-rOexgA/0.jpg)](https://www.youtube.com/watch?v=6P4v-rOexgA)
 
 <h2>Protagonistas</h2>
 Respira fundo aí, porque eu me emocionei cada vez que tive que revisar essa parte do texto.
@@ -51,13 +51,13 @@ Aqui você perceberá o impacto que é gerado ao quebrar barreiras de entrada em
 <h3>Raquel e Cristiane Aline</h3>
 Eu estava em um corre-corre brutal no primeiro dia do evento principal, no centro de convenções. Eu tinha virado a noite e havia muitas pendências com fornecedores do centro de convenções nesse dia, como alvarás de bombeiros e prefeitura, emissão de notas fiscais e coisas do gênero.
 
-IMAGEM
+![](http://url/to/raquel_cris.webp)
 
 Então, coloquei algumas pessoas para conduzir o evento, e fui resolver as “tretas”. Nesse tumulto todo, me vem o Jairo (JJ) com duas moças extremamente bem vestidas e estilosas para que eu conversasse com elas. Me lembro que no primeiro momento não pude atender, depois voltei para examinar o que era.
 
 Basicamente elas estavam em um evento de moda, que também estava ocorrendo no centro de convenções, e decidiram romper as barreiras de separação para ver o que era aquela galera de Python. A verdade é que alguma coisa chamou a atenção delas, mas essa história eu prefiro a versão que elas mesmo contaram, no vídeo abaixo. :)
 
-YOUTUBE
+[![Abertura da Python Brasil 12](https://img.youtube.com/vi/Wz3U5PabfLM/0.jpg)](https://www.youtube.com/watch?v=Wz3U5PabfLM)
 
 Histórias como a da Cris e da Raquel, são como combustíveis que estimulam as pessoas a continuarem contribuindo ❤
 
@@ -135,7 +135,7 @@ A Naomi vai ficar para sempre marcada na minha cabeça, porque foi a primeira pe
 
 Acredito que a Naomi se sentiu muito bem aqui em Florianópolis, ela saiu conosco em várias atividades pós-evento e interagiu bastante com todos, sempre se esforçando muito para conversar com as pessoas em português e inclusive se saiu muito bem. Além disso, ela foi muito importante para ajudar a fortalecer a comunidade das PyLadies Brasil. Percebo nas redes sociais que até hoje a Naomi tem uma forte conexão com a comunidade Python Brasil ❤
 
-YOUTUBE
+[![Abertura da Python Brasil 12](https://img.youtube.com/vi/ocC2fLNw6mU/0.jpg)](https://www.youtube.com/watch?v=ocC2fLNw6mU)
 
 Thank you very much Naomi :)
 
@@ -175,7 +175,7 @@ Obrigado por tudo Ladies ❤
 
 A beleza de tudo isso está no desejo de buscar a raridade que existe dentro de cada vida ❤
 
-TWITTER
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Inclusão é trazer para interagir quem está fora do ecossistema. Para que todos se beneficiem, e qualquer indivíduo assuma o protagonismo ;)</p>&mdash; Mário Sérgio (@sergiomarioq) <a href="https://twitter.com/sergiomarioq/status/890727566428041216?ref_src=twsrc%5Etfw">July 28, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Gostaria de convidá-los para olharem as fotos da Conferência Python Brasil[12]. Perceba a felicidade no rosto das pessoas. ❤
 

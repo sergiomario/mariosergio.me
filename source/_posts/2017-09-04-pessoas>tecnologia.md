@@ -51,7 +51,7 @@ Aqui você perceberá o impacto que é gerado ao quebrar barreiras de entrada em
 <h3>Raquel e Cristiane Aline</h3>
 Eu estava em um corre-corre brutal no primeiro dia do evento principal, no centro de convenções. Eu tinha virado a noite e havia muitas pendências com fornecedores do centro de convenções nesse dia, como alvarás de bombeiros e prefeitura, emissão de notas fiscais e coisas do gênero.
 
-![](images/raquel_cris.webp)
+![](https://mariosergio.me/images/raquel_cris.webp)
 
 Então, coloquei algumas pessoas para conduzir o evento, e fui resolver as “tretas”. Nesse tumulto todo, me vem o Jairo (JJ) com duas moças extremamente bem vestidas e estilosas para que eu conversasse com elas. Me lembro que no primeiro momento não pude atender, depois voltei para examinar o que era.
 
@@ -64,7 +64,7 @@ Histórias como a da Cris e da Raquel, são como combustíveis que estimulam as 
 <h3>Jessica Temporal</h3>
 O nome dessa moça aí já diz tudo. Onde ela chega dificilmente se passa despercebida, ela é uma pessoa extremamente sincera e autêntica.
 
-![](../images/jessica_marco.webp)
+![](https://mariosergio.me/images/jessica_marco.webp)
 
 No primeiro dia do evento a Temporal resolveu torcer o pé na ida para o almoço com a galera. Naquela hora talvez tenha passado na cabeça dela que o evento tinha acabado ali, pois ainda havia mais 5 dias de conferência e happy hours (na verdade quase todo mundo achou). Ela chorou de dor ali na hora, mas depois mostrou a força que tinha, pois piadas começaram a surgir com a situação em que ela estava, e logo veio o sorrisão em seu rosto. :)
 
@@ -79,7 +79,7 @@ Tem gente que entra no time, veste a camisa 10 e pega a faixa de capitão, o res
 <h3>Leticia Portella</h3>
 Seis meses depois que saí de Brasília para Florianópolis, conseguimos fazer o primeiro encontro da comunidade na ilha. A Leticia compareceu, pois trabalhava em uma empresa de engenharia como oceanógrafa, e usava Python para várias coisas por lá.
 
-![](../images/leticia_portella.webp)
+![](https://mariosergio.me/images/leticia_portella.webp)
 
 Infelizmente esse encontro foi dominado por palestras que abordavam apenas de tecnologias web, digo isso pois na época ela não tinha muita familiaridade com essa área. Me lembro de vê-la bem deslocada sentada num puff que tinha no local. Dava para ver a frustração dela de estar ali. O fato é que depois organizamos mais uns dois ou três encontros e ela nunca mais apareceu.
 
@@ -94,7 +94,7 @@ Essa mulher ainda vai sacudir esse mundo, aguardem… ❤
 <h3>James Peres</h3>
 O James foi um cara que surgiu no meio da galera durante a conferência, sendo que eu não entendia se ele era de alguma empresa que estava patrocinando ou aluno de algum parceiro do evento. Foi quando em um happy hour sentei na mesa do bar com ele, e pude descobrir tudo sobre essa nobre pessoa.
 
-![](../images/james.webp)
+![](https://mariosergio.me/images/james.webp)
 
 A história dele era mais ou menos assim… Meses antes da Python Brasil ele largou sua carreira nas forças armadas para se aventurar na área de tecnologia. Depois de ter participado de um PythonRio, comprou uma passagem para Florianópolis e um ingresso para a Python Brasil, pois várias pessoas haviam comentado com ele que seria a melhor experiência de sua vida. Olha só a minha responsabilidade :P
 
@@ -107,7 +107,7 @@ Keep Walking marinheiro!
 <h3>Talita Rossari</h3>
 Um mês antes da Python Brasil organizei um encontro da comunidade Python Floripa para 100 pessoas. Na ocasião foi um evento casado com o grupo PyLadies Floripa. Nesse dia apareceram três jovens que ficaram no fundo da sala quietinhos, no início fui comprimentá-los mas a conversa não fluiu muito. Uma dessas pessoas era a Talita, que depois desse dia começou a interagir muito nos grupos, movimentando as coisas e puxando iniciativas.
 
-![](../images/talita.webp)
+![](https://mariosergio.me/images/talita.webp)
 
 Algumas semanas depois a Talita já estava fazendo parte do nosso time de organização que iria ralar na Python Brasil. Ela é uma pessoa que anseia por fazer as coisas, um perfil de gente que chega e faz as coisas acontecerem. Nos dias da conferência era nítido o esforço de energia dela para fazer a Python Brasil acontecer.
 
@@ -118,7 +118,7 @@ Conte comigo sempre Talita! ❤
 <h3>Jonatas Baldin</h3>
 Jojo… Um dia eu estava trabalhando e recebi um email de um garoto que tinha recém chegado em Floripa de Cascavel/PR. Ele queria muito participar da Python Brasil, mas tava meio sem grana e se dispôs a fazer parte da organização. Eu achei a atitude foda e procurei ele no Telegram.
 
-![](../images/jojo.webp)
+![](https://mariosergio.me/images/jojo.webp)
 
 Depois de termos trocado algumas mensagens eu continuei sem o conhecer pessoalmente, e fiquei até achando que ele não iria na Python Brasil. Porém, às 07h da manhã do primeiro dia de tutoriais ele já estava lá, muito antes de eu chegar. Naquele dia ele agilizou muitas tarefas, ficou parecendo que ele já sabia o que tinha que fazer.
 
@@ -129,7 +129,7 @@ Vlw muito Jojo ❤
 <h3>Naomi Ceder</h3>
 Dentro do processo de escolha de Keynotes que havíamos estabelecido, o Bernardo Fontes indicou a Naomi Ceder. Após a indicação, eu assisti uma palestra dela no YouTube e a partir daí eu não conseguia imaginar uma Python Brasil em que eu estivesse organizando sem ela nos ensinando tudo aquilo sobre inclusão.
 
-![](../images/naomi.webp)
+![](https://mariosergio.me/images/naomi.webp)
 
 Fizemos contato, trocamos alguns emails e depois de um tempo ela respondeu que viria ao Brasil e que tinha pouco tempo para aprender português \o/
 
@@ -143,7 +143,7 @@ Thank you very much Naomi :)
 
 <h3>Samuel Sampaio (Professor Samuka)</h3>
 
-![](../images/samuka.webp)
+![](https://mariosergio.me/images/samuka.webp)
 
 A primeira vista ele é meio estabanado, com um tom de voz alto e um estilo bem sociável e extrovertido. Além dessas características, é importante adiantar que o coração desse jovem é gigante ❤
 
@@ -162,7 +162,7 @@ O que aconteceu foi que no retorno a Florianópolis a vida nos deu um presente n
 
 Em paralelo a isso, várias mulheres em diversos estados no Brasil estavam conquistando espaço para organizar vários eventos de capacitação e inclusão, não somente na comunidade Python mas também em outras comunidades. O resultado disso foi que várias palestras de excelente qualidade técnica foram submetidas por elas para a Python Brasil. Com isso, tivemos 42% de palestras ministradas por mulheres.
 
-![](../images/pyladies_pybr12.webp)
+![](https://mariosergio.me/images/pyladies_pybr12.webp)
 
 A verdade é que elas enriqueceram muito a conferência, pois fizeram um financiamento coletivo no Catarse que ajudou a divulgar mais ainda a Python Brasil, venderam brindes durante todo o evento para a galera, movimentaram os Sprints com muitas atividades e ajudaram a fazer de nós um grupo ainda mais diverso \o/
 

@@ -179,12 +179,13 @@ A beleza de tudo isso está no desejo de buscar a raridade que existe dentro de 
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Inclusão é trazer para interagir quem está fora do ecossistema. Para que todos se beneficiem, e qualquer indivíduo assuma o protagonismo ;)</p>&mdash; Mário Sérgio (@sergiomarioq) <a href="https://twitter.com/sergiomarioq/status/890727566428041216?ref_src=twsrc%5Etfw">July 28, 2017</a></blockquote>
 
-Gostaria de convidá-los para olharem as fotos da Conferência Python Brasil[12]. Perceba a felicidade no rosto das pessoas. ❤
+Gostaria de convidá-los para olharem as [fotos da Conferência Python Brasil[12]. Perceba a felicidade no rosto das pessoas](https://www.flickr.com/photos/pythonbrasil/albums/72157671939963093/). ❤
 
 Dois recados:
 
-Se você ainda não sentiu um clima parecido com tudo isso que eu descrevi, experimente ir em uma Python Brasil. A próxima será em Belo Horizonte, mais informações aqui.
-E se você for, chega fazendo barulho e senta na janela. A gente gosta assim ;)
+- Se você ainda não sentiu um clima parecido com tudo isso que eu descrevi, experimente ir em uma Python Brasil. A próxima será em Belo Horizonte, [mais informações aqui](https://2017.pythonbrasil.org.br/).
+- E se você for, **chega fazendo barulho e senta na janela. A gente gosta assim ;)**
+
 A expressão lógica ‘pessoas > tecnologia’, não vale somente para a camisa da Python Brasil[12].
 
 Bjos :*

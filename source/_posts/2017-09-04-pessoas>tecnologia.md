@@ -6,7 +6,7 @@ date: 2017-09-04 00:00:00
 comments: true
 keywords: "python, python brasil, comunidade"
 category: post
-image: ../images/bird.jpg
+image: ../images/pybr12.jpg
 tags:
 - tech
 - community
@@ -175,7 +175,7 @@ Obrigado por tudo Ladies ❤
 
 A beleza de tudo isso está no desejo de buscar a raridade que existe dentro de cada vida ❤
 
-<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Inclusão é trazer para interagir quem está fora do ecossistema. Para que todos se beneficiem, e qualquer indivíduo assuma o protagonismo ;)</p>&mdash; Mário Sérgio (@sergiomarioq) <a href="https://twitter.com/sergiomarioq/status/890727566428041216?ref_src=twsrc%5Etfw">July 28, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Inclusão é trazer para interagir quem está fora do ecossistema. Para que todos se beneficiem, e qualquer indivíduo assuma o protagonismo ;)</p>&mdash; Mário Sérgio (@sergiomarioq) <a href="https://twitter.com/sergiomarioq/status/890727566428041216?ref_src=twsrc%5Etfw">July 28, 2017</a></blockquote>
 
 Gostaria de convidá-los para olharem as fotos da Conferência Python Brasil[12]. Perceba a felicidade no rosto das pessoas. ❤
 

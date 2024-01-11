@@ -48,7 +48,7 @@ Respira fundo aí, porque eu me emocionei cada vez que tive que revisar essa par
 
 Aqui você perceberá o impacto que é gerado ao quebrar barreiras de entrada em um ambiente, ao construir um ecossistema com características de empatia e desconstrução de quaisquer tendências à idolatria de indivíduos. Perceba também que os protagonistas citados a seguir, poderiam ter sido facilmente ignorados, por talvez não agregarem muito à modelos superficiais de aceitação em qualquer nicho específico.
 
-- <h3>Raquel e Cristiane Aline</h3>
+<h3>Raquel e Cristiane Aline</h3>
 Eu estava em um corre-corre brutal no primeiro dia do evento principal, no centro de convenções. Eu tinha virado a noite e havia muitas pendências com fornecedores do centro de convenções nesse dia, como alvarás de bombeiros e prefeitura, emissão de notas fiscais e coisas do gênero.
 
 ![](http://url/to/raquel_cris.webp)
@@ -61,7 +61,7 @@ Basicamente elas estavam em um evento de moda, que também estava ocorrendo no c
 
 Histórias como a da Cris e da Raquel, são como combustíveis que estimulam as pessoas a continuarem contribuindo ❤
 
-- <h3>Jessica Temporal</h3>
+<h3>Jessica Temporal</h3>
 O nome dessa moça aí já diz tudo. Onde ela chega dificilmente se passa despercebida, ela é uma pessoa extremamente sincera e autêntica.
 
 ![](http://url/to/jessica_marco.webp)
@@ -76,7 +76,7 @@ A Jessica se formou em Informática Biomédica e hoje é uma das cientistas de d
 
 Tem gente que entra no time, veste a camisa 10 e pega a faixa de capitão, o resumo dela é esse :P
 
-- <h3>Leticia Portella</h3>
+<h3>Leticia Portella</h3>
 Seis meses depois que saí de Brasília para Florianópolis, conseguimos fazer o primeiro encontro da comunidade na ilha. A Leticia compareceu, pois trabalhava em uma empresa de engenharia como oceanógrafa, e usava Python para várias coisas por lá.
 
 ![](http://url/to/leticia_portella.webp)
@@ -91,7 +91,7 @@ Durante a conferência a Leticia foi o meu braço direito, passou o dia do seu a
 
 Essa mulher ainda vai sacudir esse mundo, aguardem… ❤
 
-- <h3>James Peres</h3>
+<h3>James Peres</h3>
 O James foi um cara que surgiu no meio da galera durante a conferência, sendo que eu não entendia se ele era de alguma empresa que estava patrocinando ou aluno de algum parceiro do evento. Foi quando em um happy hour sentei na mesa do bar com ele, e pude descobrir tudo sobre essa nobre pessoa.
 
 ![](http://url/to/james.webp)
@@ -104,7 +104,7 @@ Conclusão, o James assumiu a frente de um monte de coisas dentro da comunidade 
 
 Keep Walking marinheiro!
 
-- <h3>Talita Rossari</h3>
+<h3>Talita Rossari</h3>
 Um mês antes da Python Brasil organizei um encontro da comunidade Python Floripa para 100 pessoas. Na ocasião foi um evento casado com o grupo PyLadies Floripa. Nesse dia apareceram três jovens que ficaram no fundo da sala quietinhos, no início fui comprimentá-los mas a conversa não fluiu muito. Uma dessas pessoas era a Talita, que depois desse dia começou a interagir muito nos grupos, movimentando as coisas e puxando iniciativas.
 
 ![](http://url/to/talita.webp)
@@ -115,7 +115,7 @@ Atualmente a Talita puxa ativamente o grupo das PyLadies em Florianópolis, onde
 
 Conte comigo sempre Talita! ❤
 
-- <h3>Jonatas Baldin</h3>
+<h3>Jonatas Baldin</h3>
 Jojo… Um dia eu estava trabalhando e recebi um email de um garoto que tinha recém chegado em Floripa de Cascavel/PR. Ele queria muito participar da Python Brasil, mas tava meio sem grana e se dispôs a fazer parte da organização. Eu achei a atitude foda e procurei ele no Telegram.
 
 ![](http://url/to/jojo.webp)
@@ -126,7 +126,7 @@ Depois da Python Brasil, nos tornamos grandes amigos. E ele se tornou um baita p
 
 Vlw muito Jojo ❤
 
-- <h3>Naomi Ceder</h3>
+<h3>Naomi Ceder</h3>
 Dentro do processo de escolha de Keynotes que havíamos estabelecido, o Bernardo Fontes indicou a Naomi Ceder. Após a indicação, eu assisti uma palestra dela no YouTube e a partir daí eu não conseguia imaginar uma Python Brasil em que eu estivesse organizando sem ela nos ensinando tudo aquilo sobre inclusão.
 
 ![](http://url/to/naomi.webp)
@@ -141,7 +141,7 @@ Acredito que a Naomi se sentiu muito bem aqui em Florianópolis, ela saiu conosc
 
 Thank you very much Naomi :)
 
-- <h3>Samuel Sampaio (Professor Samuka)</h3>
+<h3>Samuel Sampaio (Professor Samuka)</h3>
 
 ![](http://url/to/samuka.webp)
 
@@ -153,7 +153,7 @@ Ele quem conduziu a confecção do prêmio Dorneles Treméa, ajudou com a locomo
 
 Por fim, durante os dias do evento ele pegou algumas pessoas que não sabiam quase nada de programação, para ensinar Python básico. Começava assim a então escolinha do professor Samuka :P
 
-- <h3>PyLadies Brasil</h3>
+<h3>PyLadies Brasil</h3>
 Na assembleia da APyB de 2015 foi levantada uma questão sobre inclusão, pois a participação feminina nos eventos de Python até então era baixa (assim como a maioria dos eventos de tecnologia). Dessa forma, assumi um compromisso de tentar fomentar iniciativas de inclusão, para que juntos, conseguíssemos uma participação feminina de 30% na Python Brasil[12].
 
 Ainda na Python Brasil[11], fui em um tutorial do Fernando Masanori sobre comunidade. Nesse tutorial ele explicou o funcionamento e organização de várias comunidades pelo mundo, e focou bastante na mensagem de que devemos deixar as pessoas serem protagonistas, para que a inclusão ocorra de forma natural. Esse tutorial foi muito importante, naquele momento eu decidi que eu mesmo iria fundar o grupo de PyLadies em Floripa.
@@ -162,7 +162,7 @@ O que aconteceu foi que no retorno a Florianópolis a vida nos deu um presente n
 
 Em paralelo a isso, várias mulheres em diversos estados no Brasil estavam conquistando espaço para organizar vários eventos de capacitação e inclusão, não somente na comunidade Python mas também em outras comunidades. O resultado disso foi que várias palestras de excelente qualidade técnica foram submetidas por elas para a Python Brasil. Com isso, tivemos 42% de palestras ministradas por mulheres.
 
-![](http://url/to/pyladies_pybr12.webp)
+![pyladies](http://url/to/pyladies_pybr12.webp)
 
 A verdade é que elas enriqueceram muito a conferência, pois fizeram um financiamento coletivo no Catarse que ajudou a divulgar mais ainda a Python Brasil, venderam brindes durante todo o evento para a galera, movimentaram os Sprints com muitas atividades e ajudaram a fazer de nós um grupo ainda mais diverso \o/
 

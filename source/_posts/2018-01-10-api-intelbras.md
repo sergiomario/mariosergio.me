@@ -14,16 +14,16 @@ tags:
 
 Imagine que incrível seria gerenciar dispositivos como roteadores, câmeras de monitoramento, centrais telefônicas ou rádios de transmissão por meio de chamadas de API. Então… A Intelbras está caminhando para isso. Nos últimos dias, a empresa abriu para a comunidade a [documentação da API](https://izeus.docs.apiary.io/#) de uma plataforma IoT (Zeus) que no futuro será integrada em todos os seus produtos.
 
-<iframe src="https://giphy.com/embed/26ufdipQqU2lhNA4g" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-mind-blown-blow-your-26ufdipQqU2lhNA4g">via GIPHY</a></p>
-
 Eu particularmente fico muito feliz em divulgar iniciativas como essa, pois estou ativamente tentando nas comunidades mostrar para as pessoas e empresas a importância de abrir plataformas, códigos e ideias. ❤
 
 Essa aproximação de grandes empresas da indústria com comunidades de tecnologia aumenta o potencial de criação de oportunidades, geração de renda e fomento à inovação.
 
+<iframe src="https://giphy.com/embed/26ufdipQqU2lhNA4g" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-mind-blown-blow-your-26ufdipQqU2lhNA4g">via GIPHY</a></p>
+
 Inicialmente, a empresa fez o lançamento da Plataforma Zeus somente para a linha de [Access Points](https://www.intelbras.com/pt-br/roteador-empresarial-com-tecnologia-wi-fi-4-ap-310).
 
 <h2>Onde comprar?</h2>
-Caso queira gastar seus dinheiros nos Access Points para brincar de IoT, além dos Canais Oficiais de Vendas da Intelbras, você pode conferir os produtos aqui: AP 360 e AP 310. \o/
+Caso queira gastar seus dinheiros nos Access Points para brincar de IoT, além dos Canais Oficiais de Vendas da Intelbras, você pode conferir os produtos aqui: [AP 360](https://loja.intelbras.com.br/access-point-ap360/p) e [AP 310](https://loja.intelbras.com.br/access-point-ap310/p). \o/
 
 <h2>Arquitetura</h2>
 A arquitetura do projeto se divide em 3 camadas principais: IU (Interface do Usuário), API (Interface de Programação de Aplicativos) e Serviços.
@@ -44,8 +44,8 @@ Eu vou mostrar para vocês alguns códigos de exemplo, com chamadas para funçõ
 Brincadeiras a parte, busquei fazer exemplos de códigos bem simples para focar apenas em como consumir a API. Para isso, usei uma biblioteca bem legal chamada [requests](https://docs.python-requests.org/en/latest/).
 
 Para facilitar a gerência de chamadas, criei um dicionário para inserir todos os serviços de configuração acessíveis, tendo o cuidado de inserir o endereço IP de um dispositivo que esteja conectado na mesma rede do seu computador:
-```BASE_URL = 'https://<ip-dispositivo>/cgi-bin'
-API = { 'login': BASE_URL+'/api/v1/system/login',}```
+`BASE_URL = 'https://<ip-dispositivo>/cgi-bin'`
+`API = { 'login': BASE_URL+'/api/v1/system/login',}`
 
 À medida que forem implementadas outras funções de acesso à API, elas serão incluídas nessa estrutura de dados especificada acima.
 
@@ -73,7 +73,8 @@ def auth(username, password):
         headers['Authorization'] = 'Bauer ' + token
         return True
 
-    return False```
+    return False
+```
 
 Dessa forma, para realizar a autenticação em seu script Python, basta executar a função auth conforme exemplo abaixo:
 `auth('user', 'pass')`
@@ -83,7 +84,8 @@ Após possuir o token de acesso no seu header (linha 23 - auth.py), a diversão 
 
 O método ssh_config será o responsável por fazer a chamada da API. Dessa forma, caso ele seja chamado sem nenhum argumento, será habilitada comunicação via SSH na porta 22 do dispositivo.
 
-```API = {
+```
+API = {
     'login': BASE_URL+'/api/v1/system/login',
     'service_ssh': BASE_URL+'/api/v1/service/ssh',
 }
@@ -92,7 +94,8 @@ O método ssh_config será o responsável por fazer a chamada da API. Dessa form
 def ssh_config(enabled=True, port=22, wan_access=True):
     data = {'data': {'enabled': enabled, 'port': port, 'wan_access': wan_access}}
     requests.put(API['service_ssh'], data=json.dumps(data),
-                 headers=headers, verify=False)```
+                 headers=headers, verify=False)
+```
 
 Sendo assim, para configurar o acesso SSH na porta 33 por exemplo, apenas execute a função abaixo:
 `ssh_config(port=33)`
@@ -100,7 +103,8 @@ Sendo assim, para configurar o acesso SSH na porta 33 por exemplo, apenas execut
 <h3>Aplicando as alterações</h3>
 Todas as configurações enviadas aos dispositivos são somente ativadas após uma chamada ao endpoint apply. Dessa forma, após o post ser enviado, esse método retorna um hash das alterações dentro do response.
 
-```API = {
+```
+API = {
     'apply': BASE_URL+'/api/v1/system/apply',
     'login': BASE_URL+'/api/v1/system/login',
     'service_ssh': BASE_URL+'/api/v1/service/ssh',
@@ -113,7 +117,8 @@ def apply():
     if result['data']['sucess']:
         return result['data']['config_hash']
 
-    return False```
+    return False
+```
 
 Para aplicar as configurações no dispositivo, basta executar a seguinte linha de código:
 `apply()`
@@ -131,7 +136,8 @@ Para exemplificar a utilização do serviço, implementei uma função chamada c
 
 Abaixo a implementação da função:
 
-```API = {
+```
+API = {
     'apply': BASE_URL+'/api/v1/system/apply',
     'login': BASE_URL+'/api/v1/system/login',
     'service_led': BASE_URL+'/api/v1/service/leds',
@@ -148,7 +154,8 @@ def change_led_color(color):
         led_options['data']['color']['value'] = color
 
     requests.put(API['service_led'], data=json.dumps(led_options),
-                 headers=headers, verify=False)```
+                 headers=headers, verify=False)
+```
 
 Caso queira ter acesso a todo o código de exemplo que apresentei nesse post, é só acessar o arquivo nesse [gist público](https://gist.github.com/sergiomario/4b1999554365871413609bcc53e211db).
 

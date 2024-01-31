@@ -84,5 +84,7 @@ Tem algumas coisas importantes ainda a serem ditas:
 Que o governo tenha êxito nos projetos e que o Brasil seja realmente um lugar de união e reconstrução. <3
 
 ![](https://mariosergio.me/images/lappis1.jpg)
+![](https://mariosergio.me/images/lappis2.jpg)
+![](https://mariosergio.me/images/secretaria_snps.jpg)
 
 
